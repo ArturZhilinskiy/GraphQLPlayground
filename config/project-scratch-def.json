@@ -1,7 +1,19 @@
 {
-  "orgName": "arturzhilinskiy company",
+  "orgName": "AZ company",
+  "tag__c" : "GraphQL",
+  "country": "PL",
+  "username": "artur.zhilinskiy.scratch@gmail.com",
+  "adminEmail": "artur.v.zhilinskiy@gmail.com",
   "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"],
+  "description": "The scratch org learn GraphQL and 2GP",
+  "hasSampleData": "true",
+  "language": "en_US",
+  "features": [
+    "EnableSetPasswordInApi",
+    "EventLogFile",
+    "MarketingUser",
+    "PlatformEncryption"
+  ],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
